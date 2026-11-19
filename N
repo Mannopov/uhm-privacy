@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — UHM LandTech Instagram Assistant</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { font-size: 1.7em; margin-bottom: 0.2em; }
+  h2 { font-size: 1.2em; margin-top: 1.8em; }
+  .meta { color: #666; font-size: 0.9em; }
+  .lang { margin: 16px 0 32px; }
+  .lang a { margin-right: 12px; }
+  hr { margin: 48px 0; border: none; border-top: 1px solid #ddd; }
+  ul { padding-left: 1.2em; }
+</style>
+</head>
+<body>
+
+<div class="lang"><a href="#en">English</a> <a href="#ru">Русский</a> <a href="#uz">O'zbekcha</a></div>
+
+<!-- ===================== ENGLISH ===================== -->
+<section id="en">
+<h1>Privacy Policy</h1>
+<p class="meta">UHM LandTech — Instagram Assistant ("Response Bot")<br>Last updated: November 18, 2026</p>
+
+<p>This policy explains how UHM LandTech ("we", "us") handles information when you interact with our official Instagram account <strong>@uhm.uz</strong>, where an automated assistant replies to comments and, in some cases, to direct messages.</p>
+
+<h2>1. What information we process</h2>
+<ul>
+  <li>Your Instagram username and Instagram-scoped user ID</li>
+  <li>The text of comments you leave on our posts, and the ID of the post you commented on</li>
+  <li>Messages exchanged with our account, when the assistant sends you a private reply to your comment or answers a direct message</li>
+  <li>Contact details you choose to give us in a conversation: your name, phone number, and the machine or equipment you are interested in</li>
+</ul>
+<p>We do not collect your password, contacts, location, or any information from your private profile. We only receive what Instagram sends us about interactions with our own account.</p>
+
+<h2>2. Why we use it</h2>
+<ul>
+  <li>To reply to your comments and questions (for example, about prices, availability, or services)</li>
+  <li>To send you more details by private message when you ask about our products</li>
+  <li>To forward complaints or complex requests to our staff so a person can follow up</li>
+  <li>To prevent duplicate replies and hide spam or offensive comments</li>
+</ul>
+
+<h2>3. Automated processing</h2>
+<p>Comment and message text is analysed by an AI service (Google Gemini API, paid tier) to understand what is being asked and to choose an appropriate reply. Under the terms of that paid service, the data is not used to train Google's models. No decisions with legal or similarly significant effects are made automatically.</p>
+
+<h2>4. Who we share it with</h2>
+<ul>
+  <li><strong>Meta Platforms</strong> — which operates Instagram and delivers comments and messages to us</li>
+  <li><strong>Google</strong> — as the AI processing provider described above</li>
+  <li><strong>Our staff</strong> — who may receive a notification about your comment or request so they can help you</li>
+</ul>
+<p>We do not sell your information and do not use it for advertising.</p>
+
+<h2>5. How long we keep it</h2>
+<p>We keep comment records and message history for up to <strong>90 days</strong> to provide replies and follow up on requests, after which they are deleted. Contact details you give us (name, phone number, equipment of interest) are kept as a customer request record so our sales team can contact you and keep a history of your enquiries; they are kept until you ask us to delete them. We also keep summary statistics (for example, the number of comments per day) that do not identify you. Content on Instagram itself (your comments and messages) remains under Instagram's control and can be deleted by you at any time.</p>
+
+<h2>6. Your rights and data deletion</h2>
+<p>You can ask us to show or delete any information we hold about you. To request deletion, send a message to <strong>@uhm.uz</strong> on Instagram or email us at the address below, including your Instagram username. We will delete your data within <strong>30 days</strong> and confirm when it is done.</p>
+<p>You can also remove our access at any time by deleting your comments or messages on Instagram.</p>
+
+<h2>7. Contact</h2>
+<p>UHM LandTech<br>Email: <a href="mailto:uhmlandtechuz@gmail.com">uhmlandtechuz@gmail.com</a><br>Instagram: <a href="https://www.instagram.com/uhm.uz/">@uhm.uz</a></p>
+
+<h2>8. Changes</h2>
+<p>We may update this policy. The date at the top shows the latest version.</p>
+</section>
+
+<hr>
+
+<!-- ===================== RUSSIAN ===================== -->
+<section id="ru">
+<h1>Политика конфиденциальности</h1>
+<p class="meta">UHM LandTech — Instagram-ассистент («Response Bot»)<br>Последнее обновление: 18 ноября 2026 г.</p>
+
+<p>Эта политика объясняет, как UHM LandTech («мы») обрабатывает информацию, когда вы взаимодействуете с нашим официальным аккаунтом Instagram <strong>@uhm.uz</strong>, где автоматический ассистент отвечает на комментарии и, в отдельных случаях, на личные сообщения.</p>
+
+<h2>1. Какие данные мы обрабатываем</h2>
+<ul>
+  <li>Ваше имя пользователя Instagram и идентификатор пользователя</li>
+  <li>Текст ваших комментариев под нашими публикациями и ID публикации</li>
+  <li>Сообщения в переписке с нашим аккаунтом, если ассистент отправляет вам ответ на комментарий в личные сообщения или отвечает на ваше сообщение</li>
+  <li>Контактные данные, которые вы сами сообщаете в переписке: имя, номер телефона и интересующая вас техника</li>
+</ul>
+<p>Мы не получаем ваш пароль, контакты, местоположение или данные из закрытого профиля — только то, что Instagram передаёт о взаимодействии с нашим аккаунтом.</p>
+
+<h2>2. Для чего мы их используем</h2>
+<ul>
+  <li>Чтобы отвечать на ваши комментарии и вопросы (о ценах, наличии, услугах)</li>
+  <li>Чтобы отправить подробности в личные сообщения, если вы спрашиваете о продукции</li>
+  <li>Чтобы передать жалобы или сложные запросы сотрудникам</li>
+  <li>Чтобы не отвечать дважды и скрывать спам или оскорбительные комментарии</li>
+</ul>
+
+<h2>3. Автоматическая обработка</h2>
+<p>Текст комментариев и сообщений анализируется ИИ-сервисом (Google Gemini API, платный тариф), чтобы понять вопрос и выбрать ответ. По условиям платного тарифа данные не используются для обучения моделей Google. Решений с юридическими или аналогично значимыми последствиями автоматически не принимается.</p>
+
+<h2>4. Кому мы передаём данные</h2>
+<ul>
+  <li><strong>Meta Platforms</strong> — оператору Instagram</li>
+  <li><strong>Google</strong> — поставщику ИИ-обработки</li>
+  <li><strong>Нашим сотрудникам</strong> — для ответа на ваш запрос</li>
+</ul>
+<p>Мы не продаём ваши данные и не используем их для рекламы.</p>
+
+<h2>5. Сроки хранения</h2>
+<p>Записи о комментариях и история переписки хранятся до <strong>90 дней</strong>, затем удаляются. Контактные данные (имя, телефон, интересующая техника) хранятся как заявка клиента, чтобы наш отдел продаж мог связаться с вами, — до тех пор, пока вы не попросите их удалить. Также мы храним обобщённую статистику (например, число комментариев в день), по которой вас нельзя идентифицировать. Сами комментарии и сообщения в Instagram вы можете удалить в любое время.</p>
+
+<h2>6. Ваши права и удаление данных</h2>
+<p>Вы можете запросить просмотр или удаление ваших данных. Для удаления напишите <strong>@uhm.uz</strong> в Instagram или на почту ниже, указав ваше имя пользователя. Мы удалим данные в течение <strong>30 дней</strong> и подтвердим это.</p>
+
+<h2>7. Контакты</h2>
+<p>UHM LandTech<br>Email: <a href="mailto:uhmlandtechuz@gmail.com">uhmlandtechuz@gmail.com</a><br>Instagram: <a href="https://www.instagram.com/uhm.uz/">@uhm.uz</a></p>
+</section>
+
+<hr>
+
+<!-- ===================== UZBEK ===================== -->
+<section id="uz">
+<h1>Maxfiylik siyosati</h1>
+<p class="meta">UHM LandTech — Instagram yordamchisi («Response Bot»)<br>Oxirgi yangilanish: 2026-yil 18-noyabr</p>
+
+<p>Ushbu siyosat UHM LandTech («biz») rasmiy Instagram akkauntimiz <strong>@uhm.uz</strong> bilan muloqot qilganingizda ma'lumotlaringizni qanday ishlatishini tushuntiradi. Akkauntda avtomatik yordamchi izohlarga va ba'zi hollarda shaxsiy xabarlarga javob beradi.</p>
+
+<h2>1. Qanday ma'lumotlarni ishlaymiz</h2>
+<ul>
+  <li>Instagram foydalanuvchi nomingiz va identifikatoringiz</li>
+  <li>Postlarimiz ostidagi izohlaringiz matni va post ID raqami</li>
+  <li>Akkauntimiz bilan yozishmalar — yordamchi izohingizga shaxsiy xabarda javob bersa yoki xabaringizga javob bersa</li>
+  <li>Yozishmada o'zingiz bergan aloqa ma'lumotlari: ismingiz, telefon raqamingiz va qiziqqan texnikangiz</li>
+</ul>
+<p>Biz parolingiz, kontaktlaringiz, joylashuvingiz yoki yopiq profilingizdagi ma'lumotlarni olmaymiz.</p>
+
+<h2>2. Nima uchun ishlatamiz</h2>
+<ul>
+  <li>Izoh va savollaringizga javob berish (narx, mavjudlik, xizmatlar haqida)</li>
+  <li>Mahsulot haqida so'rasangiz, batafsil ma'lumotni shaxsiy xabarda yuborish</li>
+  <li>Shikoyat yoki murakkab so'rovlarni xodimlarimizga yetkazish</li>
+  <li>Takroriy javoblarning oldini olish va spam izohlarni yashirish</li>
+</ul>
+
+<h2>3. Avtomatik ishlov berish</h2>
+<p>Izoh va xabarlar matni sun'iy intellekt xizmati (Google Gemini API, pullik tarif) orqali tahlil qilinadi. Pullik tarif shartlariga ko'ra ma'lumotlar Google modellarini o'qitish uchun ishlatilmaydi.</p>
+
+<h2>4. Kimga beramiz</h2>
+<ul>
+  <li><strong>Meta Platforms</strong> — Instagram operatori</li>
+  <li><strong>Google</strong> — sun'iy intellekt xizmati</li>
+  <li><strong>Xodimlarimiz</strong> — so'rovingizga javob berish uchun</li>
+</ul>
+<p>Ma'lumotlaringizni sotmaymiz va reklama uchun ishlatmaymiz.</p>
+
+<h2>5. Saqlash muddati</h2>
+<p>Izohlar va yozishmalar tarixi <strong>90 kungacha</strong> saqlanadi, so'ng o'chiriladi. Aloqa ma'lumotlari (ism, telefon, qiziqqan texnika) sotuv bo'limimiz siz bilan bog'lanishi uchun mijoz so'rovi sifatida saqlanadi — siz o'chirishni so'ramaguningizcha. Shuningdek, sizni aniqlab bo'lmaydigan umumiy statistika (masalan, kunlik izohlar soni) saqlanadi.</p>
+
+<h2>6. Huquqlaringiz va ma'lumotlarni o'chirish</h2>
+<p>Ma'lumotlaringizni ko'rish yoki o'chirishni so'rashingiz mumkin. Buning uchun Instagram'da <strong>@uhm.uz</strong> ga yoki quyidagi pochtaga foydalanuvchi nomingizni yozib yuboring. Ma'lumotlar <strong>30 kun</strong> ichida o'chiriladi va sizga tasdiqlanadi.</p>
+
+<h2>7. Aloqa</h2>
+<p>UHM LandTech<br>Email: <a href="mailto:uhmlandtechuz@gmail.com">uhmlandtechuz@gmail.com</a><br>Instagram: <a href="https://www.instagram.com/uhm.uz/">@uhm.uz</a></p>
+</section>
+
+</body>
+</html>
